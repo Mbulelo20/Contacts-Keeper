@@ -318,7 +318,7 @@ textarea {
   padding: 0.4rem;
   font-size: 1.5rem;
   border: 1px solid rgb(55, 235, 220);
-  border-radius: 25px;
+  border-radius: 5px;
 }
 
 input[type='submit'],
