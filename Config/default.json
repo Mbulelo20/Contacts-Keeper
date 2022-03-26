@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://mbulelo123:Voy@1997@mycontacts.sw9om.mongodb.net/myFirstDatabase?authSource=admin&replicaSet=atlas-124dpx-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
+    "mongoURI": "mongodb+srv://mbulelo:voyager123@mbulelo.eu7nw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret": "secret"
 }
